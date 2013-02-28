@@ -1,0 +1,39 @@
+Introduction
+The Tell, Don’t Ask design principle urges you to tell objects what to do.  What you don’t want to do is ask an object about its internal state, make some decisions about that state, then tell that object what to do.  Following the Tell, Don’t Ask style of object interaction is a good way to ensure that responsibilities are put in the right place.
+
+Current System Behavior
+The code is taking a purchase of some sort, checking for the possibility of a discount for purchases of more than $10,000, and finally examining the account data to decide whether there are sufficient funds.
+
+Requirements
+Refactor code to follow the Tell, Don’t Ask pattern.
+
+Example
+Move the business rule(s) for purchasing into its own class.
+
+CODE
+public class Purchase {
+  public double SubTotal { get; set; }
+  public double Discount { get; set; }
+  public double Total { get; set; }
+}
+
+public class Account {
+  public double Balance { get; set;}
+}
+
+public class ClassThatDoesNotObeyTellDontAsk{
+  public void MakePurchase(
+    Purchase purchase, Account account) {
+    purchase.Discount = purchase.SubTotal > 10000 ? .10 : 0;
+    purchase.Total = 
+      purchase.SubTotal*(1 - purchase.Discount);
+
+    if (purchase.Total < account.Balance) {
+      account.Balance -= purchase.Total;
+    }
+    else {
+      rejectPurchase(purchase, 
+        "You don't have enough money.");
+    }
+  }
+}
