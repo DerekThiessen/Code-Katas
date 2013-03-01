@@ -1,6 +1,0 @@
-C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\StringCalculator\bin\Debug\StringCalculator.exe.config
-C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\StringCalculator\bin\Debug\StringCalculator.exe
-C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\StringCalculator\bin\Debug\StringCalculator.pdb
-C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
-C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\StringCalculator\obj\Debug\StringCalculator.exe
-C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\StringCalculator\obj\Debug\StringCalculator.pdb
