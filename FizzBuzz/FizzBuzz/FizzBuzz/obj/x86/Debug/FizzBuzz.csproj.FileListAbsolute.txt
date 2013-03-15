@@ -1,0 +1,7 @@
+C:\Users\thiessed\Documents\GitHub\Code-Katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\thiessed\Documents\GitHub\Code-Katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\thiessed\Documents\GitHub\Code-Katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\thiessed\Documents\GitHub\Code-Katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\Users\thiessed\Documents\GitHub\Code-Katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
+C:\Users\thiessed\Documents\GitHub\Code-Katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\Machine.Specifications.dll
+C:\Users\thiessed\Documents\GitHub\Code-Katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\Machine.Specifications.pdb
