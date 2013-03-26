@@ -1,15 +1,17 @@
-﻿using Machine.Specifications;
+﻿using NUnit.Framework;
 
 namespace FizzBuzz
 {
-	class FizzBuzzTests
+	[TestFixture]
+	public class FizzBuzzTest
 	{
-		private static FizzBuzz fizzBuzz;
-
-		private Establish context = () => fizzBuzz = new FizzBuzz();
-
-		private Because of = () => { };
-
-		private It should_return_zero = () => { };
+		[TestCase(1,1)]
+		[TestCase(2,2)]
+		[TestCase(3,"fixx")]
+		public void Go(int input, string result)
+		{
+			var fizzBuzz = new FizzBuzz();
+			
+		}
 	}
 }
