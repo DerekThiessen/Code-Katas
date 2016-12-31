@@ -1,0 +1,13 @@
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bin\Debug\resources.pri
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bin\Debug\AppxManifest.xml
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bin\Debug\Kanban Board.build.appxrecipe
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\priconfig.xml.intermediate
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\layout.resfiles.intermediate
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\resources.resfiles.intermediate
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\pri.resfiles.intermediate
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\priconfig.xml
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\layout.resfiles
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\resources.resfiles
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\pri.resfiles
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\LanguageQualifiers.txt
+C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bld\Debug\ProjectArchitectures.txt

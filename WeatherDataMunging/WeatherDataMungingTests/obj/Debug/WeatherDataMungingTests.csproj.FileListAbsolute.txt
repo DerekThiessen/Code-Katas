@@ -1,0 +1,8 @@
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\bin\Debug\WeatherDataMungingTests.dll
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\bin\Debug\WeatherDataMungingTests.pdb
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\bin\Debug\WeatherDataMunging.exe
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\bin\Debug\WeatherDataMunging.pdb
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\obj\Debug\WeatherDataMungingTests.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\obj\Debug\WeatherDataMungingTests.dll
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMungingTests\obj\Debug\WeatherDataMungingTests.pdb

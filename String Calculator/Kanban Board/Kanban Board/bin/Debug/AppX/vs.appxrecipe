@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEREK-PC</Machine>
+    <WindowsUser>Derek</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A49A91DBFC46F39E97552A6CA3ECD084FF0B551167DAC3CD20CE7D68C912A49E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15a1f2d7-76a7-4f18-9119-b8a90f0ab254_1.0.0.0_neutral__92a38hpr8p01m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>15a1f2d7-76a7-4f18-9119-b8a90f0ab254_92a38hpr8p01m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>15a1f2d7-76a7-4f18-9119-b8a90f0ab254</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Derek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-18T22:22:09.798</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Content\jasmine\jasmine.css">
+      <PackagePath>Content\jasmine\jasmine.css</PackagePath>
+      <Modified>2013-03-04T23:35:27.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-03-04T23:22:12.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\pages\items\items.css">
+      <PackagePath>pages\items\items.css</PackagePath>
+      <Modified>2013-03-04T23:22:12.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\pages\swimLanes\swimLanes.css">
+      <PackagePath>pages\swimLanes\swimLanes.css</PackagePath>
+      <Modified>2013-03-06T00:49:21.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Content\jasmine\jasmine_favicon.png">
+      <PackagePath>Content\jasmine\jasmine_favicon.png</PackagePath>
+      <Modified>2013-03-04T23:35:27.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T03:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T03:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T03:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-19T03:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Controllers\JasmineController.cs">
+      <PackagePath>Controllers\JasmineController.cs</PackagePath>
+      <Modified>2013-03-04T23:35:27.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-03-06T00:48:40.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-03-18T22:52:43.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-03-04T23:22:13.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\pages\items\items.js">
+      <PackagePath>pages\items\items.js</PackagePath>
+      <Modified>2013-03-05T00:55:44.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\pages\swimLanes\swimLanes.js">
+      <PackagePath>pages\swimLanes\swimLanes.js</PackagePath>
+      <Modified>2013-03-18T22:22:52.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jasmine-samples\Player.js">
+      <PackagePath>Scripts\jasmine-samples\Player.js</PackagePath>
+      <Modified>2013-03-04T23:35:27.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jasmine-samples\PlayerSpec.js">
+      <PackagePath>Scripts\jasmine-samples\PlayerSpec.js</PackagePath>
+      <Modified>2013-03-04T23:35:27.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jasmine-samples\Song.js">
+      <PackagePath>Scripts\jasmine-samples\Song.js</PackagePath>
+      <Modified>2013-03-04T23:35:26.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jasmine-samples\SpecHelper.js">
+      <PackagePath>Scripts\jasmine-samples\SpecHelper.js</PackagePath>
+      <Modified>2013-03-04T23:35:26.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jasmine\jasmine-html.js">
+      <PackagePath>Scripts\jasmine\jasmine-html.js</PackagePath>
+      <Modified>2013-03-04T23:35:27.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jasmine\jasmine.js">
+      <PackagePath>Scripts\jasmine\jasmine.js</PackagePath>
+      <Modified>2013-03-04T23:35:27.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jquery-1.9.1.intellisense.js">
+      <PackagePath>Scripts\jquery-1.9.1.intellisense.js</PackagePath>
+      <Modified>2013-03-04T23:23:37.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jquery-1.9.1.js">
+      <PackagePath>Scripts\jquery-1.9.1.js</PackagePath>
+      <Modified>2013-03-04T23:23:40.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jquery-1.9.1.min.js">
+      <PackagePath>Scripts\jquery-1.9.1.min.js</PackagePath>
+      <Modified>2013-03-04T23:23:40.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jquery.validate-vsdoc.js">
+      <PackagePath>Scripts\jquery.validate-vsdoc.js</PackagePath>
+      <Modified>2013-03-04T23:24:11.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jquery.validate.js">
+      <PackagePath>Scripts\jquery.validate.js</PackagePath>
+      <Modified>2013-03-04T23:24:11.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jquery.validate.min.js">
+      <PackagePath>Scripts\jquery.validate.min.js</PackagePath>
+      <Modified>2013-03-04T23:24:11.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\knockout-2.2.1.debug.js">
+      <PackagePath>Scripts\knockout-2.2.1.debug.js</PackagePath>
+      <Modified>2013-03-04T23:24:39.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\knockout-2.2.1.js">
+      <PackagePath>Scripts\knockout-2.2.1.js</PackagePath>
+      <Modified>2013-03-04T23:24:39.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\knockout.validation.debug.js">
+      <PackagePath>Scripts\knockout.validation.debug.js</PackagePath>
+      <Modified>2013-03-04T23:25:03.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\knockout.validation.js">
+      <PackagePath>Scripts\knockout.validation.js</PackagePath>
+      <Modified>2013-03-04T23:25:03.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2013-03-04T23:35:28.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\pages\items\items.html">
+      <PackagePath>pages\items\items.html</PackagePath>
+      <Modified>2013-03-04T23:22:12.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-03-18T22:34:47.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\pages\swimLanes\swimLanes.html">
+      <PackagePath>pages\swimLanes\swimLanes.html</PackagePath>
+      <Modified>2013-03-18T22:52:51.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jasmine\MIT.LICENSE">
+      <PackagePath>Scripts\jasmine\MIT.LICENSE</PackagePath>
+      <Modified>2013-03-04T23:35:27.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Scripts\jquery-1.9.1.min.map">
+      <PackagePath>Scripts\jquery-1.9.1.min.map</PackagePath>
+      <Modified>2013-03-04T23:23:40.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\Views\Jasmine\SpecRunner.cshtml">
+      <PackagePath>Views\Jasmine\SpecRunner.cshtml</PackagePath>
+      <Modified>2013-03-04T23:35:26.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Derek\Documents\GitHub\Code-Katas\String Calculator\Kanban Board\Kanban Board\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-05T00:55:49.223</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

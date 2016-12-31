@@ -1,0 +1,6 @@
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMunging\bin\Debug\WeatherDataMunging.exe.config
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMunging\bin\Debug\WeatherDataMunging.exe
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMunging\bin\Debug\WeatherDataMunging.pdb
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMunging\obj\Debug\WeatherDataMunging.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMunging\obj\Debug\WeatherDataMunging.exe
+C:\Users\Derek\Source\Repos\Code-Katas\WeatherDataMunging\WeatherDataMunging\obj\Debug\WeatherDataMunging.pdb
