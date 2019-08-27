@@ -12,12 +12,12 @@ For a given natural number greater than zero return:
 |-------------------------------|--------------------------------------------------|
 |1            |1                                                                   |
 |2            |1, 2                                                                |
-|3            |1, 2, fizz                                                          |
-|4            |1, 2, fizz, 4                                                       |
-|5            |1, 2, fizz, 4, 5                                                    |
-|6            |1, 2, fizz, 4, 5, fizz                                              |
-|10           |1, 2, fizz, 4, 5, fizz, 7, 8, fizz, buzz                            |
-|15           |1, 2, fizz, 4, 5, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz|
+|3            |fizz                                                          	   |
+|4            |4                                                                   |
+|5            |5                                                                   |
+|6            |fizz                                                                |
+|10           |buzz                                                                |
+|15           |fizzbuzz                                                            |
 
 
 ## Stage II - new requirements
