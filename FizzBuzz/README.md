@@ -11,8 +11,8 @@ For a given natural number greater than zero return:
 |Input                          |Result                                            |
 |-------------------------------|--------------------------------------------------|
 |1            |1                                                                   |
-|2            |1, 2                                                                |
-|3            |fizz                                                          	   |
+|2            |2                                                                   |
+|3            |fizz                                                           	   |
 |4            |4                                                                   |
 |5            |5                                                                   |
 |6            |fizz                                                                |
